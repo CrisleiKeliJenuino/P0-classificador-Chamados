@@ -60,7 +60,7 @@ Digite a descrição de um problema técnico quando solicitado.
 - [x] Etapa 4 — Utilização de f-strings para apresentar resultados.
 - [x] Etapa 5 — Organização das palavras-chave com listas e `any()`.
 - [x] Etapa 6 — Normalização da descrição e redução de código repetido.
-- [ ] Etapa 7 — Organização do código em funções.
+- [x] Etapa 7 — Organização do código em funções.
 - [ ] Etapa 8 — Integração com uma LLM via API REST.
 - [ ] Etapa 9 — Testes e documentação final.
 
