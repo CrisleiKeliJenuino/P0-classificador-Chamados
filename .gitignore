@@ -15,3 +15,5 @@ venv/
 
 # Configurações Locais
 .vscode/
+
+teste_funcoes.py
